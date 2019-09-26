@@ -3,7 +3,26 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CameraPosition
+  - Water
+  - Ground
+  - WheelFL
+  - WheelFR
+  - WheelBL
+  - WheelBR
+  - InputManager
+  - ColliderFL
+  - ColliderFR
+  - ColliderBL
+  - ColliderBR
+  - camera1position
+  - scriptAnimations
+  - PlayerMesh
+  - CanvasMenu
+  - CanvasGame
+  - CanvasFade
+  - Circles
   layers:
   - Default
   - TransparentFX
@@ -14,8 +33,8 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
+  - BackGroundSprites
+  - Plataforms
   - 
   - 
   - 
@@ -40,4 +59,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: BackGroundSprites
+    uniqueID: 3701462215
     locked: 0

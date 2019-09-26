@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Menu/UIMenu.unity
+    guid: 57df290ccf0bb4b48bc89bbf5e264f57
+  - enabled: 0
+    path: Assets/Controllers/2DRigidbody/2DRigidbodyController.unity
+    guid: 4c8858b18c1ab28448774a129bd93d1c
+  - enabled: 0
+    path: Assets/Controllers/3DRigidBody/3DRigidbody.unity
+    guid: a938256098d01ff47b75a73134e9aad2
+  - enabled: 1
+    path: Assets/Controllers/CharacterController/CharacterController.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Controllers/WheelCollider/WheelCollider.unity
+    guid: 8af9ef560451a9a4e814077ab24cde3e
   m_configObjects: {}
